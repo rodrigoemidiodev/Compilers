@@ -1,0 +1,10 @@
+// this is a single line comment
+123 if /* another commment */ 456 abc
+/*
+ a
+ multiline
+ comment
+ 444 777 555
+ */ 789 
+ 
+
