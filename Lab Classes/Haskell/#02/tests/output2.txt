@@ -1,0 +1,1 @@
+[INT,ID "x",FLOAT,ID "y",WHILE,LPAREN,ID "x",RPAREN,FOR,LPAREN,ID "x",COMMA,ID "y",COMMA,ID "z",RPAREN,ID "integer",ID "floating",ID "WHILE"]

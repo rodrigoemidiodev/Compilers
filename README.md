@@ -1,8 +1,8 @@
-# Compiladores (CC3001)
-Neste repositório está o código relativo à Unidade Curricular de Compiladores do Ano Letivo 2022/2023 - DCC/FCUP.
+# Compilers (CC3001)
+This repository contains the code for Compilers Course Unit of 2022/2023 Academic Year - DCC/FCUP.
 
-| Diretório | Descrição |
+| Folder | Description |
 | :-------- | :-----------------------------------------------------------------------------------------|
-| Exemplos de Código | Código fonte disponibilizado para teste |
-| Outros | Outros recursos |
-| Práticas | Resoluções dos exercícios das aulas práticas em C e Haskell |
+| Code Examples | Source code given to test |
+| Others | Other resources |
+| Lab Classes | Resolution of the lab classes exercises both in C and Haskell |

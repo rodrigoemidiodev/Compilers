@@ -1,0 +1,10 @@
+int x
+float y
+while (x) 
+ for (x, y, z)
+
+integer
+floating
+WHILE
+
+
